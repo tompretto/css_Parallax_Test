@@ -6,9 +6,9 @@ html {
 }
 
 body { 
-  margin:0;
-  padding:0;
-	perspective: 1px;
+  margin:8;
+  padding:2;
+	perspective: 2px;
 	transform-style: preserve-3d;
   height: 100%;
   overflow-y: scroll;
