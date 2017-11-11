@@ -6,7 +6,7 @@ html {
 }
 
 body { 
-  margin:8;
+  margin:2;
   padding:2;
 	perspective: 2px;
 	transform-style: preserve-3d;
